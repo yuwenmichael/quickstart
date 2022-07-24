@@ -1,4 +1,4 @@
-module github.com/michael/myblog
+module github.com/yuwenmichael/quickstart
 
 go 1.18
 
