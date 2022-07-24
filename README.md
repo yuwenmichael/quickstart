@@ -1,5 +1,5 @@
-Example site modified from https://github.com/gohugoio/hugoBasicExample
-conmmand：hugo
-public repo: public
-Enviroment variable:
-HUGO_VERSION hugo v0.101.0
+Example site modified from https://github.com/gohugoio/hugoBasicExample<br/>
+conmmand：hugo<br/>
+public repo: public<br/>
+Enviroment variable:<br/>
+HUGO_VERSION v0.101.0
