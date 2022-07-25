@@ -1,21 +1,21 @@
 +++
 author = "Yu-Wen Michael Zhang"
-title = "Video Gallery"
+title = "Anime Clips"
 date = "2022-07-25"
 description = "Awesome Clips Make By Myself"
 tags = [
-    "videogallery",
+    "VideoGallery",
+    "video",
 ]
-image = "3_8K.jpg"
+categories = [
+    "VideoGallery",
+]
+image = "1231206.jpg"
 +++
 
 Some clips that I think are the best of the best will put them up here.
 <!--more-->
 ---
-## Spider Man
-{{< youtube 3bMZ494_lCQ >}}
-<br>
-
 ## Eve MV
 {{< youtube 5ZL1BqH5IoY >}}
 <br>
@@ -31,10 +31,6 @@ Some clips that I think are the best of the best will put them up here.
 
 ### Vinsmoke Sanji and Charlotte Pudding
 {{< bilibili BV17Y4y1E76s >}}
-<br>
-
-## Moon Knight
-{{< bilibili BV1bT4y1B7Wh >}}
 <br>
 
 

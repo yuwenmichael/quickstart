@@ -18,7 +18,7 @@ menu:
 I have been thinking of having a blog for so long but did not have time (maybe this is just an excuse) until I add a friend called [Eric Hu](https://ericrzhu.com/) and find that he holds a blog. After taking a glance at his website, I am thinking maybe this is the time I should **create my own blog** hahaha. Right now I don't actually know what should I write and hence the outline and structure will be very similar to my friend's blog.
 
 ## 👨‍🔬 Who Am I
-I left China when I was 17 years old and took an one-year foundation course in Auckland New Zealand. I was award DUX at Taylors College in 2018 July cohort. After that I came to Melboure and studied at The University of Melboure majoring at computing and software system for three year and graduated with first class honour grade in July 2022.
+I left China when I was 17 years old and took an one-year foundation course in Auckland New Zealand. I was award DUX at Taylors College in 2018 July cohort. After that I came to Melboure and studied at The University of Melboure majoring at computing and software system for three years and graduated with first class honour grade in July 2022.
 
 ## 🏊‍♂️ Hobby
 
