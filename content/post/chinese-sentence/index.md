@@ -1,8 +1,8 @@
 +++
 author = "Yu-Wen Michael Zhang"
-title = "Fabulous Sentences in Chinese"
+title = "Sentimental But Fabulous Sentences in Chinese"
 date = "2022-07-24"
-description = ""
+description = "Very worth recording in this blog."
 categories = [
     "Chinese"
 ]
