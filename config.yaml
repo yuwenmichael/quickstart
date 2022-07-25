@@ -195,6 +195,11 @@ menu:
     main: []
 
     social:
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/michael21zhang
+          params:
+              icon: Instagram_logo_2022
         - identifier: youtube
           name: Youtube
           url: https://www.youtube.com/c/MichaelZhang666

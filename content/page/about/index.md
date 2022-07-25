@@ -1,7 +1,7 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Try to be a photographer!
+date: '2022-07-25'
 aliases:
   - about-us
   - about-hugo
@@ -14,21 +14,21 @@ menu:
         params:
             icon: user
 ---
+## 🏠 About This Blog
+I have been thinking of having a blog for so long but did not have time (maybe this is just an excuse) until I add a friend called [Eric Hu](https://ericrzhu.com/) and find that he holds a blog. After taking a glance at his website, I am thinking maybe this is the time I should **create my own blog** hahaha. Right now I don't actually know what should I write and hence the outline and structure will be very similar to my friend's blog.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 👨‍🔬 Who Am I
+I left China when I was 17 years old and took an one-year foundation course in Auckland New Zealand. I was award DUX at Taylors College in 2018 July cohort. After that I came to Melboure and studied at The University of Melboure majoring at computing and software system for three year and graduated with first class honour grade in July 2022.
 
-Hugo makes use of a variety of open source projects including:
+## 🏊‍♂️ Hobby
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* Take pictures
+* Baskeball and swimming
+* Eat delicious food and try all kinds of cuisines
+* Anime Clip and film editing (please follow me on my Youtube Channel and Bilibili.😄 Just click on the icon on the left side bar and you will be directed to my Channel. I need followers!🤣 )
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## 📮 Contact Me
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Email: zywmichael2000@outlook.com
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Instagram: [michael21zhang](https://www.instagram.com/michael21zhang)
