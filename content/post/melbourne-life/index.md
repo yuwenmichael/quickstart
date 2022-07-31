@@ -17,8 +17,8 @@ image = "IMG_0641.jpg"
 I have been volunteered at Brotherhood of St. Laurence for one and a half year since the beginning of 2021. At first, I just want to complete the [Leaders in Communities Award](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica). After completing 40 hours of volunteerring in 4 months, I find that being a volunteer is pretty fun. I can meet lots of different people with different cultural background and experience things that I never experienced before. Thus, I stay there till July 2022.
 <center>
     <figure>
-        <img src="store.JPG" width="50%"/>
-        <figcaption>Picture of the store. Location:  Royal Arcade Ground Level, 335 Bourke St, Melbourne VIC 3000
+        <img src="store.JPG" width="60%"/>
+        <figcaption>Picture of the store. Location: Royal Arcade Ground Level, 335 Bourke St, Melbourne VIC 3000
 </figcaption>
     </figure>
 </center>
