@@ -16,6 +16,11 @@ image = "1231206.jpg"
 Some clips that I think are the best of the best will put them up here.
 <!--more-->
 ---
+
+## Everybody Dies In Their Nightmares
+{{< youtube 1WQF9RK_X-M >}}
+<br>
+
 ## Eve MV
 {{< youtube 5ZL1BqH5IoY >}}
 <br>
