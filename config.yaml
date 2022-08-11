@@ -84,10 +84,16 @@ params:
             admin:
             adminLabel:
 
+        
         utterances:
-            repo: yuwenmichael/blog_comment
-            issueTerm: pathname
-            label:
+            issue_term: pathname
+            label: 'comments'
+            repo_name: yuwenmichael/blog_comment
+            theme: boxy-light
+            use_utterances: yes
+            # repo: yuwenmichael/blog_comment
+            # issueTerm: pathname
+            # label:
 
         remark42:
             host:
@@ -258,9 +264,9 @@ module:
       disable: false
     - path: github.com/mfg92/hugo-shortcode-gallery
 
-utterances:
-  issue_term: pathname
-  label: 'comments'
-  repo_name: yuwenmichael/blog_comment
-  theme: boxy-light
-  use_utterances: yes
+# utterances:
+#   issue_term: pathname
+#   label: 'comments'
+#   repo_name: yuwenmichael/blog_comment
+#   theme: boxy-light
+#   use_utterances: yes
