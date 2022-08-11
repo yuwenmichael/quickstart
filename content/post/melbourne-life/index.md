@@ -1,6 +1,6 @@
 +++
 author = "Yu-Wen Michael Zhang"
-title = "Melbourne"
+title = "Melbourne Life"
 date = "2022-07-31"
 description = "Some Moments in Melbourne"
 categories = [

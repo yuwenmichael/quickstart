@@ -1,6 +1,10 @@
 baseurl: https://example.com
 languageCode: en-us
-theme: hugo-theme-stack
+# theme: hugo-theme-stack
+theme: ["hugo-theme-stack", "hugo-shortcode-gallery"]
+# theme: 
+# - hugo-theme-stack
+# - hugo-shortcode-gallery
 paginate: 5
 title: Example Site
 
@@ -70,8 +74,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider: disqus
+        enabled: true
+        provider: utterances
 
         disqusjs:
             shortname:
@@ -81,7 +85,7 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: yuwenmichael/blog_comment
             issueTerm: pathname
             label:
 
@@ -252,3 +256,11 @@ module:
   imports:
     - path: github.com/CaiJimmy/hugo-theme-stack/v3
       disable: false
+
+
+utterances:
+  issue_term: pathname
+  label: 'comments'
+  repo_name: yuwenmichael/blog_comment
+  theme: boxy-light
+  use_utterances: yes
