@@ -258,9 +258,9 @@ module:
       disable: false
     - path: github.com/mfg92/hugo-shortcode-gallery
 
-utterances:
-  issue_term: pathname
-  label: 'comments'
-  repo_name: yuwenmichael/blog_comment
-  theme: boxy-light
-  use_utterances: yes
+# utterances:
+#   issue_term: pathname
+#   label: 'comments'
+#   repo_name: yuwenmichael/blog_comment
+#   theme: boxy-light
+#   use_utterances: yes
