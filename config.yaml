@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://yuwenmichael.netlify.app/
 languageCode: en-us
 # theme: hugo-theme-stack
 theme: ["hugo-theme-stack", "hugo-shortcode-gallery"]
