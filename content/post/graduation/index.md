@@ -31,11 +31,11 @@ image = "IMG_0818.jpg"
     </figure>
 </center> -->
 
-<center>
+<!-- <center>
     <figure>
         <img src="IMG_4325.JPG" width="45%"/>
         <img src="DSC_4824.JPG" width="25%"/>
         <figcaption>Picture with Tian Hui and Justin.</figcaption>
     </figure>
-</center>
+</center> -->
 
