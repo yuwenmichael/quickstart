@@ -15,21 +15,21 @@ image = "IMG_0818.jpg"
 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="220" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery=true >}}
 
-<center>
+<!-- <center>
     <figure>
         <img src="IMG_4329.JPG" width="40%"/>
         <img src="IMG_4333.JPG" width="40%"/>
         <figcaption>Picture with Nicolai.</figcaption>
     </figure>
-</center>
+</center> -->
 
-<center>
+<!-- <center>
     <figure>
         <img src="IMG_4323.JPG" width="35%"/>
         <img src="IMG_4318.JPG" width="40%"/>
         <figcaption>Picture with Justin.</figcaption>
     </figure>
-</center>
+</center> -->
 
 <center>
     <figure>
