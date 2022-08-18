@@ -257,3 +257,5 @@ module:
     - path: github.com/CaiJimmy/hugo-theme-stack/v3
       disable: false
     - path: github.com/mfg92/hugo-shortcode-gallery
+
+timeout: 60000
