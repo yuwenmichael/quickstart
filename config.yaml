@@ -59,7 +59,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Master of Computer Science at The University of Melbourne
+        subtitle: Master Student in Department of CST at Tsinghua University
         avatar:
             enabled: true
             local: true
